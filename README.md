@@ -1,0 +1,1 @@
+Password Evaluator is a simple Python program that evaluates created passwords based on several security factors. It checks for password length, character variety, and structure, and provides feedback on potential flaws. The program also displays password statistics and generates a basic hash representation.
